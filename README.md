@@ -34,7 +34,6 @@ In today’s digital world, face recognition plays a crucial role in security, p
 | Notebook File | Model Type |
 |---------------|------------|
 | `face_recognition_using_FaceNet.ipynb` | FaceNet |
-| `face_recognition_using_FaceNet (1).ipynb` | FaceNet (variant) |
 | `Face_Recognition_for_ArcFace.ipynb` | ArcFace |
 | `Face_Recognition_using_VGG.ipynb` | VGG-16 based CNN |
 | `Face_Recognition_using_GhostFaceNetV2_1.ipynb` | GhostFaceNetV2 |
