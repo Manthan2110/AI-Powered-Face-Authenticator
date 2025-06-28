@@ -54,8 +54,7 @@ Each notebook walks through:
 - 📊 Accuracy comparisons and distance metrics
 - 🖼️ Real-image input support
 - 🧪 Plug-and-play notebook environment
-- **Jupyter Notebook** – Model development and experiments
-
+  
 ---
 ## 🛠 Tools & Technologies
 
